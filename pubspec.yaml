@@ -1,0 +1,11 @@
+name: diwired
+description: Flex DI library for Dart projects
+version: 0.0.1
+repository: https://github.com/SpireX64/diwired
+
+environment:
+  sdk: ^3.0.5
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0

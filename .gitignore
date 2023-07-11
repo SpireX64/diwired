@@ -1,0 +1,18 @@
+# https://dart.dev/guides/libraries/private-files
+# Files and directories created by `dart pub`
+.dart_tool/
+.packages
+build/
+
+# Avoid committing pubspec.lock for library packages; see
+# https://dart.dev/guides/libraries/private-files#pubspeclock.
+pubspec.lock
+
+# Directory created by dartdoc
+doc/api/
+
+# dotenv environment variables file
+.env*
+
+.flutter-plugins
+.flutter-plugins-dependencies
